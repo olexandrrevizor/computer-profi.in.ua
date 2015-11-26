@@ -1,0 +1,2020 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DW Question Answer v1.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-31 11:41+0200\n"
+"PO-Revision-Date: 2015-04-06 10:05+0200\n"
+"Last-Translator: DesignWall <webmaster@designwall.com>\n"
+"Language-Team: \n"
+"Language: ua\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ dwqa
+#: ../dw-question-answer.php:61 ../dw-question-answer.php:62
+#: ../inc/settings.php:392
+msgid "Question"
+msgstr "Запитання"
+
+# @ default
+#: ../dw-question-answer.php:63 ../dw-question-answer.php:107
+#, fuzzy
+msgid "Add New"
+msgstr "Додати"
+
+# @ default
+#: ../dw-question-answer.php:64
+msgid "Add New Question"
+msgstr "Додати нове запитання"
+
+# @ default
+#: ../dw-question-answer.php:65
+msgid "Edit Question"
+msgstr "Змінити запитання"
+
+# @ default
+# @ dwqa
+#: ../dw-question-answer.php:66 ../inc/settings.php:971
+msgid "New Question"
+msgstr "Нове запитання"
+
+# @ default
+#: ../dw-question-answer.php:67
+msgid "All Questions"
+msgstr "Всі запитання"
+
+# @ default
+#: ../dw-question-answer.php:68
+msgid "View Question"
+msgstr "Переглянути запитання"
+
+# @ default
+#: ../dw-question-answer.php:69
+msgid "Search Question"
+msgstr "Знайти запитання"
+
+# @ default
+#: ../dw-question-answer.php:70
+msgid "No questions found"
+msgstr "Запитання не знайдено"
+
+# @ default
+#: ../dw-question-answer.php:71
+msgid "No questions found in Trash"
+msgstr "У кошику корзини не знайдено"
+
+# @ default
+#: ../dw-question-answer.php:73
+msgid "DW Q&A"
+msgstr "Питання-відповіді"
+
+# @ default
+# @ dwqa
+#: ../dw-question-answer.php:105 ../dw-question-answer.php:106
+#: ../dw-question-answer.php:117 ../dw-question-answer.php:534
+#: ../inc/settings.php:428 ../inc/templates/default/question-list.php:111
+msgid "Answer"
+msgstr "Відповіді"
+
+# @ default
+#: ../dw-question-answer.php:108
+msgid "Add new answer"
+msgstr "Додати відповідь"
+
+# @ default
+#: ../dw-question-answer.php:109
+msgid "Edit answer"
+msgstr "Змінити відповідь"
+
+# @ default
+# @ dwqa
+#: ../dw-question-answer.php:110 ../inc/settings.php:972
+msgid "New Answer"
+msgstr "Нова відповідь"
+
+# @ default
+#: ../dw-question-answer.php:111
+msgid "All Answers"
+msgstr "Всі відповіді"
+
+# @ default
+#: ../dw-question-answer.php:112
+msgid "View Answer"
+msgstr "Переглянути відповідь"
+
+# @ default
+#: ../dw-question-answer.php:113
+msgid "Search Answer"
+msgstr "Знайти відповідь"
+
+# @ default
+#: ../dw-question-answer.php:114
+msgid "No Answers found"
+msgstr "Відповіді не знайдено"
+
+# @ default
+#: ../dw-question-answer.php:115
+msgid "No Answers found in Trash"
+msgstr "В кошику відповідей не знайдено"
+
+# @ default
+#: ../dw-question-answer.php:147
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr "Категорії"
+
+# @ default
+#: ../dw-question-answer.php:148
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Категорія"
+
+# @ default
+#: ../dw-question-answer.php:149
+msgid "Search Categories"
+msgstr "Пошук категорії"
+
+# @ default
+#: ../dw-question-answer.php:150
+msgid "All Categories"
+msgstr "Всі категорії"
+
+# @ default
+#: ../dw-question-answer.php:151
+msgid "Parent Category"
+msgstr "Батьківська категорія"
+
+# @ default
+#: ../dw-question-answer.php:152
+msgid "Parent Category:"
+msgstr "Батьківська категорія:"
+
+# @ default
+#: ../dw-question-answer.php:153
+msgid "Edit Category"
+msgstr "Змінити категорію"
+
+# @ default
+#: ../dw-question-answer.php:154
+msgid "Update Category"
+msgstr "Оновити категорію"
+
+# @ default
+#: ../dw-question-answer.php:155
+msgid "Add New Category"
+msgstr "Додати категорію"
+
+# @ default
+#: ../dw-question-answer.php:156
+msgid "New Category Name"
+msgstr "Назва категорії"
+
+# @ default
+#: ../dw-question-answer.php:157
+msgid "Question Categories"
+msgstr "Категорії запитаннь"
+
+# @ default
+#: ../dw-question-answer.php:174
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "Мітки"
+
+# @ default
+#: ../dw-question-answer.php:175
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "Мітка"
+
+# @ default
+#: ../dw-question-answer.php:176
+msgid "Search Tags"
+msgstr "Знайти мітку"
+
+# @ default
+#: ../dw-question-answer.php:177
+msgid "Popular Tags"
+msgstr "Популярні мітки"
+
+# @ default
+#: ../dw-question-answer.php:178
+msgid "All Tags"
+msgstr "Всі мітки"
+
+# @ default
+#: ../dw-question-answer.php:181
+msgid "Edit Tag"
+msgstr "Змінити мітку"
+
+# @ default
+#: ../dw-question-answer.php:182
+msgid "Update Tag"
+msgstr "Оновити мітку"
+
+# @ default
+#: ../dw-question-answer.php:183
+msgid "Add New Tag"
+msgstr "Додати мітку"
+
+# @ default
+#: ../dw-question-answer.php:184
+msgid "New Tag Name"
+msgstr "Назва мітки"
+
+# @ default
+#: ../dw-question-answer.php:185
+msgid "Separate tags with commas"
+msgstr "Розділяйте мітки комами"
+
+# @ default
+#: ../dw-question-answer.php:186
+msgid "Add or remove tags"
+msgstr "Додати або змінити мітки"
+
+# @ default
+#: ../dw-question-answer.php:187
+msgid "Choose from the most used tags"
+msgstr "Вибрати з популярних міток"
+
+# @ default
+# @ dwqa
+#: ../dw-question-answer.php:188
+#: ../inc/templates/default/question-submit-form.php:36
+msgid "Question Tags"
+msgstr "Мітки (не обовязково)"
+
+# @ dwqa
+#: ../dw-question-answer.php:233 ../dw-question-answer.php:476
+#: ../inc/filter.php:83 ../inc/templates/default/navigation-archive.php:70
+msgid "Next"
+msgstr "Наст."
+
+# @ dwqa
+#: ../dw-question-answer.php:234 ../dw-question-answer.php:477
+#: ../inc/templates/default/navigation-archive.php:34
+msgid "Prev"
+msgstr "Попер."
+
+# @ dwqa
+#: ../dw-question-answer.php:236 ../dw-question-answer.php:479
+msgid "Please enter your question"
+msgstr "Будь ласка, введіть своє запитання"
+
+# @ dwqa
+#: ../dw-question-answer.php:237
+msgid "Your question must be at least 2 characters in length"
+msgstr "Ваше запитання повинне мати більше двох слів"
+
+# @ dwqa
+#: ../dw-question-answer.php:238
+msgid "Enter a valid email address"
+msgstr "Введіть існуючий e-mail"
+
+# @ dwqa
+#: ../dw-question-answer.php:239
+msgid "Enter a question title"
+msgstr "Введіть заголовок"
+
+# @ dwqa
+#: ../dw-question-answer.php:240
+msgid "Please add your name"
+msgstr "Будь ласка, напишіть своє ім’я"
+
+# @ dwqa
+#: ../dw-question-answer.php:241 ../dw-question-answer.php:480
+msgid "Please enter your answer"
+msgstr "Будь ласка, введіть свою відповідь"
+
+# @ dwqa
+#: ../dw-question-answer.php:242 ../dw-question-answer.php:481
+#: ../inc/actions.php:970
+msgid "Please enter your comment content"
+msgstr "Будь ласка, напишіть коментар"
+
+# @ dwqa
+#: ../dw-question-answer.php:243 ../dw-question-answer.php:482
+msgid "Comment must have more than 2 characters"
+msgstr "Коментар повинен мати більше 2-х символів"
+
+# @ dwqa
+#: ../dw-question-answer.php:244
+msgid "Not found! Try another keyword."
+msgstr "Не знайдено! Спробуйте інше слово!"
+
+# @ dwqa
+#: ../dw-question-answer.php:245
+msgid "Or press <strong>ENTER</strong> to get more questions"
+msgstr "або натисніть <strong>ENTER</strong> щоб побачити більше запитань"
+
+# @ dwqa
+#: ../dw-question-answer.php:246 ../dw-question-answer.php:483
+#: ../inc/actions.php:833 ../inc/actions.php:936
+msgid "Update"
+msgstr "Оновити"
+
+# @ dwqa
+#: ../dw-question-answer.php:247 ../dw-question-answer.php:484
+#: ../dw-question-answer.php:576 ../inc/settings.php:399
+#: ../inc/template-functions.php:611
+#: ../inc/templates/default/content-answer.php:36
+#: ../inc/templates/default/content-comment.php:47
+msgid "Edit"
+msgstr "Змінити"
+
+# @ dwqa
+#: ../dw-question-answer.php:248 ../dw-question-answer.php:485
+#: ../inc/actions.php:834 ../inc/actions.php:937
+msgid "Cancel"
+msgstr "Відмінити"
+
+# @ dwqa
+#: ../dw-question-answer.php:249 ../dw-question-answer.php:486
+msgid "Do you want to delete this comment?"
+msgstr "Ви справді хочете видалити коментар?"
+
+# @ dwqa
+#: ../dw-question-answer.php:250 ../dw-question-answer.php:487
+msgid "Do you want to delete this answer?"
+msgstr "Ви хочете видалити цю відповідь?"
+
+# @ dwqa
+#: ../dw-question-answer.php:251
+msgid "Do you want to update this answer?"
+msgstr "Ви хочете оновити цю відповідь?"
+
+# @ dwqa
+#: ../dw-question-answer.php:252
+msgid "Do you want to report this answer?"
+msgstr "Ви хочете повідомити про відповідь адміністраторам?"
+
+# @ dwqa
+#: ../dw-question-answer.php:254
+msgid "Report"
+msgstr "Повідомити"
+
+# @ dwqa
+#: ../dw-question-answer.php:255
+msgid "Undo"
+msgstr "Відмінити"
+
+# @ dwqa
+#: ../dw-question-answer.php:256
+msgid "This answer will be marked as spam and hidden. Do you want to flag it?"
+msgstr ""
+"Ця відповідь буде помічена як спам і прихована. Ви хочете відмітити її?"
+
+# @ dwqa
+#: ../dw-question-answer.php:257
+msgid "This answer was flagged as spam. Do you want to show it"
+msgstr "Ця відповідь була помічена як спам. Ви хочене показати її?"
+
+# @ dwqa
+#: ../dw-question-answer.php:258
+msgid "This answer was flagged as spam"
+msgstr "Відповідь помічена як спам"
+
+# @ dwqa
+#: ../dw-question-answer.php:259 ../dw-question-answer.php:493
+msgid "hide"
+msgstr "приховати"
+
+# @ dwqa
+#: ../dw-question-answer.php:260 ../dw-question-answer.php:494
+#: ../inc/templates/default/content-answer.php:103
+msgid "show"
+msgstr "показати"
+
+# @ dwqa
+#: ../dw-question-answer.php:262 ../inc/template-functions.php:739
+msgid "Follow This Question"
+msgstr "Слідкувати за цим запитанням"
+
+# @ dwqa
+#: ../dw-question-answer.php:263 ../inc/template-functions.php:739
+msgid "Unfollow This Question"
+msgstr "Не слідкувати за цим запитанням"
+
+# @ dwqa
+#: ../dw-question-answer.php:264
+msgid "Pin this question to top"
+msgstr "Вивести запитання на головну"
+
+# @ dwqa
+#: ../dw-question-answer.php:265
+msgid "Unpin this question from top"
+msgstr "Прибрати запитання з головної"
+
+# @ dwqa
+#: ../dw-question-answer.php:268
+msgid "Do you want to delete this question?"
+msgstr "Видалити це запитання?"
+
+# @ dwqa
+#: ../dw-question-answer.php:284
+msgid "DWQA Questions"
+msgstr "Питання / відповіді"
+
+# @ dwqa
+#: ../dw-question-answer.php:301
+msgid "DWQA Ask Question"
+msgstr "Запитати"
+
+# @ default
+#: ../dw-question-answer.php:396
+#, php-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s секунда"
+msgstr[1] "%s секунди"
+msgstr[2] "%s секунд"
+
+# @ default
+#: ../dw-question-answer.php:405
+#, php-format
+msgid "about %s min"
+msgid_plural "%s mins"
+msgstr[0] "близько %s хв."
+msgstr[1] "близько %s хв."
+msgstr[2] "близько %s хв."
+
+# @ default
+#: ../dw-question-answer.php:411
+#, php-format
+msgid "about %s hour"
+msgid_plural "%s hours"
+msgstr[0] "близько %s години"
+msgstr[1] "близько %s годин"
+msgstr[2] "близько %s годин"
+
+# @ default
+#: ../dw-question-answer.php:417
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s день"
+msgstr[1] "%s дня"
+msgstr[2] "%s днів"
+
+# @ dwqa
+#: ../dw-question-answer.php:421
+#, php-format
+msgid "%1$s ago"
+msgstr "%1$s тому"
+
+# @ dwqa
+#: ../dw-question-answer.php:489
+#: ../inc/templates/default/content-answer.php:41
+msgid "Flag"
+msgstr "Відмінити"
+
+# @ dwqa
+#: ../dw-question-answer.php:490
+#: ../inc/templates/default/content-answer.php:41
+msgid "Unflag"
+msgstr "Зняти відмітку"
+
+# @ dwqa
+#: ../dw-question-answer.php:491
+msgid ""
+"This answer will be hidden when flagged. Are you sure you want to flag it?"
+msgstr "Ця відповідь буде прихована після відмітки. Ви впевнені?"
+
+# @ dwqa
+#: ../dw-question-answer.php:492
+msgid "This answer was flagged as spam. Do you want to show it?"
+msgstr "Ця відповідь. Вы хотите показать его?"
+
+# @ dwqa
+#: ../dw-question-answer.php:535 ../inc/class-answers-list-table.php:81
+msgid "Author"
+msgstr "Автор"
+
+# @ dwqa
+#: ../dw-question-answer.php:537
+msgid "In Response To"
+msgstr "у відповідь на"
+
+# @ dwqa
+#: ../dw-question-answer.php:541
+msgid "Info"
+msgstr "Інфо"
+
+# @ dwqa
+#: ../dw-question-answer.php:577 ../inc/settings.php:400
+#: ../inc/template-functions.php:614
+#: ../inc/templates/default/content-answer.php:39
+#: ../inc/templates/default/content-comment.php:50
+msgid "Delete"
+msgstr "Видалити"
+
+# @ dwqa
+#: ../dw-question-answer.php:578
+#: ../inc/templates/default/question-list.php:108
+msgid "View"
+msgstr "Переглядів"
+
+# @ dwqa
+#: ../dw-question-answer.php:582
+msgid "Submitted"
+msgstr "Опубліковано"
+
+# @ dwqa
+#: ../dw-question-answer.php:583
+msgid "on"
+msgstr " "
+
+# @ dwqa
+#: ../dw-question-answer.php:610
+msgid "Reset all changes to default"
+msgstr "Скинути всі зміни до тсандартних"
+
+# @ dwqa
+#: ../dw-question-answer.php:624
+msgid "answered"
+msgstr "має відповідь"
+
+# @ dwqa
+#: ../dw-question-answer.php:625
+msgid "voted"
+msgstr "голосів"
+
+# @ dwqa
+#: ../dw-question-answer.php:626
+msgid "views"
+msgstr "переглядів"
+
+# @ dwqa
+#: ../dw-question-answer.php:734 ../inc/shortcodes.php:124
+#: ../inc/widgets/latest-question.php:40
+#: ../inc/widgets/list-closed-question.php:48
+#: ../inc/widgets/popular-question.php:40
+msgid "asked by"
+msgstr "запитав(ла)"
+
+# @ dwqa
+#: ../inc/actions-question.php:14 ../inc/actions.php:1670
+#: ../inc/class-answers-list-table.php:92 ../inc/notification.php:146
+#: ../inc/notification.php:148 ../inc/settings.php:416 ../inc/settings.php:452
+#: ../inc/settings.php:487 ../inc/templates/default/content-answer.php:83
+#: ../inc/templates/default/content-comment.php:15
+#: ../inc/templates/default/single-question.php:24
+#: ../inc/widgets/latest-question.php:40
+msgid "Anonymous"
+msgstr "Анонім"
+
+# @ default
+#: ../inc/actions-question.php:20
+#, php-format
+msgid "Posts by %s"
+msgstr "Записи автора: %s"
+
+#: ../inc/actions-question.php:28
+#, php-format
+msgid "%s answered <span class=\"dwqa-date\">%s</span>"
+msgstr "%s відповів <span class=\"dwqa-date\">%s</span>"
+
+#: ../inc/actions-question.php:30
+#, php-format
+msgid "%s asked <span class=\"dwqa-date\">%s</span>"
+msgstr "%s запитав(ла) <span class=\"dwqa-date\">%s</span>"
+
+# @ dwqa
+#: ../inc/actions-vote.php:6
+msgid "Are you cheating, huh?"
+msgstr "Ти чо, нах?"
+
+#: ../inc/actions-vote.php:19
+msgid "What "
+msgstr "Що"
+
+# @ dwqa
+#: ../inc/actions-vote.php:47
+msgid "You voted for this "
+msgstr "Ви проголосували"
+
+# @ dwqa
+#: ../inc/actions.php:50
+msgid "Delete draft"
+msgstr "Видалити чорновик"
+
+# @ dwqa
+#: ../inc/actions.php:80
+msgid "Answer for "
+msgstr "Відповісти на"
+
+# @ dwqa
+#: ../inc/actions.php:94 ../inc/template-functions.php:217
+msgid "Save draft"
+msgstr "Зберегти як чорновик"
+
+# @ dwqa
+#: ../inc/actions.php:108 ../inc/actions.php:415 ../inc/shortcodes.php:84
+msgid "You do not have permission to submit question."
+msgstr "Ви не можете додавати питання"
+
+# @ dwqa
+#: ../inc/actions.php:134 ../inc/actions.php:427
+msgid "Captcha is not correct"
+msgstr "Невірний код"
+
+# @ dwqa
+#: ../inc/actions.php:141
+msgid "Answer is missing"
+msgstr "Відповідь відсутня"
+
+# @ dwqa
+#: ../inc/actions.php:152 ../inc/actions.php:258
+msgid "You do not have permission to edit this post"
+msgstr "Ви не можете редагувати запис"
+
+# @ dwqa
+#: ../inc/actions.php:157 ../inc/actions.php:263
+msgid "This post is not an answer"
+msgstr "Цей запис не відповідь"
+
+# @ dwqa
+# @ default
+#: ../inc/actions.php:245 ../inc/actions.php:430 ../inc/actions.php:651
+#: ../inc/actions.php:673 ../inc/actions.php:691 ../inc/actions.php:1401
+#: ../inc/filter.php:425 ../inc/status.php:287
+msgid "Are you cheating huh?"
+msgstr "Ти чо, нах?"
+
+# @ dwqa
+#: ../inc/actions.php:250
+msgid "Missing answer ID"
+msgstr "Втрачений ID відповіді"
+
+# @ dwqa
+#: ../inc/actions.php:371
+msgid "User Registration was disabled."
+msgstr "Реєстрація користувачів закрита"
+
+# @ dwqa
+#: ../inc/actions.php:374
+msgid "This email is already registered, please choose another one."
+msgstr "Цей e-mail вже зареєстрований, будь ласка, введіть інший"
+
+# @ dwqa
+#: ../inc/actions.php:377
+msgid "This username is already registered. Please use another one."
+msgstr "Цей логін вже використовується. Будь ласка, введіть інший!"
+
+# @ dwqa
+#: ../inc/actions.php:577
+msgid "You do not have permission to edit question status"
+msgstr "Ви не можете змінити статус запитання"
+
+#: ../inc/actions.php:644
+msgid "Comment is missing"
+msgstr ""
+
+# @ dwqa
+#: ../inc/actions.php:654
+msgid "Comment content must not be empty."
+msgstr "Коментар не має бути пустим."
+
+# @ dwqa
+#: ../inc/actions.php:678
+msgid "Comment ID must be showed."
+msgstr "ID коментаря має бути показано."
+
+# @ dwqa
+#: ../inc/actions.php:694
+msgid "Missing id of answer"
+msgstr "Втратив ID відповіді"
+
+# @ dwqa
+#: ../inc/actions.php:837 ../inc/actions.php:940
+msgid "Publish"
+msgstr "Додати!"
+
+# @ dwqa
+#: ../inc/actions.php:844 ../inc/actions.php:852
+#: ../inc/template-functions.php:224 ../inc/template-functions.php:232
+#: ../inc/template-functions.php:637 ../inc/template-functions.php:645
+#: ../inc/template-functions.php:651
+#: ../inc/templates/default/content-answer.php:55
+#: ../inc/templates/default/content-answer.php:63
+#: ../inc/templates/default/content-answer.php:69
+msgid "Private"
+msgstr "Приватно"
+
+# @ dwqa
+#: ../inc/actions.php:844 ../inc/actions.php:851
+#: ../inc/template-functions.php:224 ../inc/template-functions.php:231
+#: ../inc/template-functions.php:637 ../inc/template-functions.php:644
+#: ../inc/template-functions.php:651
+#: ../inc/templates/default/content-answer.php:55
+#: ../inc/templates/default/content-answer.php:62
+#: ../inc/templates/default/content-answer.php:69
+msgid "Public"
+msgstr "Для всіх"
+
+# @ dwqa
+#: ../inc/actions.php:851 ../inc/template-functions.php:231
+#: ../inc/template-functions.php:644
+#: ../inc/templates/default/content-answer.php:62
+msgid "Everyone can see"
+msgstr "Всі бачать"
+
+# @ dwqa
+#: ../inc/actions.php:852 ../inc/template-functions.php:232
+#: ../inc/template-functions.php:645
+#: ../inc/templates/default/content-answer.php:63
+msgid "Only Author and Administrator can see"
+msgstr "Лише адміністратор бачитиме ваше запитання"
+
+# @ dwqa
+#: ../inc/actions.php:869 ../inc/actions.php:1596
+msgid "Hello, Are you cheating huh?"
+msgstr "Ти чо, нах?"
+
+# @ dwqa
+#: ../inc/actions.php:877
+msgid "The question is missing"
+msgstr "Питання закрито"
+
+# @ dwqa
+#: ../inc/actions.php:884 ../inc/status.php:318
+msgid "You do not have permission to edit question"
+msgstr "Ви не можене змінювати питання"
+
+# @ dwqa
+#: ../inc/actions.php:965
+msgid "You can't post comment"
+msgstr "Ви не можете коментувати"
+
+# @ dwqa
+#: ../inc/actions.php:984
+msgid "Missing email information"
+msgstr "Втратив email"
+
+# @ dwqa
+#: ../inc/actions.php:989
+msgid "Missing name information"
+msgstr "Втрачено ім’я"
+
+# @ dwqa
+#: ../inc/actions.php:1251
+msgid "Choose as the best answer"
+msgstr "Оберіть кращу відповідь"
+
+# @ dwqa
+#: ../inc/actions.php:1447 ../inc/actions.php:1471
+msgid "Invalid Post"
+msgstr "Невірний запис"
+
+# @ dwqa
+#: ../inc/actions.php:1566
+msgid "Sticky Questions"
+msgstr "Прикріплені запитання"
+
+# @ dwqa
+#: ../inc/actions.php:1602
+msgid "Question is not valid"
+msgstr "Невірне запитання"
+
+# @ dwqa
+#: ../inc/actions.php:1623
+msgid "Delete Action was failed"
+msgstr "Видалення невдале"
+
+# @ dwqa
+#: ../inc/actions.php:1628
+msgid "You do not have permission to delete this question"
+msgstr "Ви не можете видалити це питання"
+
+# @ dwqa
+#: ../inc/class-answers-list-table.php:82
+msgid "Detail"
+msgstr "Деталі"
+
+# @ dwqa
+#: ../inc/class-answers-list-table.php:101
+msgid "Answered on "
+msgstr "У відповідь на"
+
+# @ dwqa
+#: ../inc/class-answers-list-table.php:112 ../inc/contextual-helper.php:201
+msgid "Read more"
+msgstr "Детальніше"
+
+# @ default
+#: ../inc/class-walker-category.php:20 ../inc/class-walker-tag-dropdown.php:19
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "Переглянути всі записи під %s"
+
+# @ default
+#: ../inc/class-walker-category.php:35 ../inc/class-walker-tag-dropdown.php:34
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "Фід всіх записів під %s"
+
+# @ dwqa
+#: ../inc/contextual-helper.php:47
+msgid "Overview"
+msgstr "Огляд"
+
+# @ dwqa
+#: ../inc/contextual-helper.php:48
+msgid "DW Question Answer Plugin"
+msgstr "DW Question Answer Plugin"
+
+# @ dwqa
+#: ../inc/contextual-helper.php:49
+msgid ""
+"DW Question Answer is a WordPress Plugin which helps you build a Question & "
+"Answer system on your WordPress sites. The plugin is easy to install and set "
+"up. Let start building up your community with this WordPress question & "
+"answer system."
+msgstr ""
+"DW Question Answer - это плагин для WordPress, который позволяет сделать "
+"систему питанняов-ответов на сайтах под управлением WordPress. Плагин легко "
+"установить и настроить. Сформируйте вашу аудиторию в системой питанняов-"
+"ответов!"
+
+# @ dwqa
+#: ../inc/contextual-helper.php:52
+msgid "Setup Question List Page"
+msgstr "Призначити сторінку зі списком запитань"
+
+# @ dwqa
+#: ../inc/contextual-helper.php:56
+msgid "Setup Ask Question Page"
+msgstr "Призначити сторінку \"Запитати\""
+
+# @ dwqa
+#: ../inc/contextual-helper.php:60
+msgid "Shortcode"
+msgstr "Шорткод"
+
+# @ dwqa
+#: ../inc/contextual-helper.php:64
+msgid "Style integration"
+msgstr "Інтеграція стилю"
+
+# @ default
+#: ../inc/contextual-helper.php:221
+msgid "For more information:"
+msgstr "Додаткова інформація:"
+
+# @ default
+#: ../inc/contextual-helper.php:222
+msgid "DW Question Answer Guide"
+msgstr "Допомога по DW Question Answer"
+
+# @ default
+#: ../inc/contextual-helper.php:223
+msgid "Community"
+msgstr "Спільнота"
+
+# @ default
+#: ../inc/contextual-helper.php:224
+msgid "DesignWall Wordpress Themes"
+msgstr "Теми для Wordpress від DesignWall"
+
+# @ default
+#: ../inc/contextual-helper.php:225
+msgid "DesignWall Wordpress Plugins"
+msgstr "Плагіни для Wordpress від DesignWall"
+
+# @ dwqa
+#: ../inc/filter.php:100
+#: ../inc/templates/default/archive-question-notfound.php:5
+msgid "You do not have permission to view questions"
+msgstr "Ви не пожете переглянути питання"
+
+# @ dwqa
+#: ../inc/filter.php:103
+msgid "Sorry, but nothing matched your filter. "
+msgstr "Вибачте, нічого не знайдено"
+
+# @ dwqa
+#: ../inc/filter.php:111
+msgid "You can ask question"
+msgstr "Ви можете запитати"
+
+# @ dwqa
+#: ../inc/filter.php:113
+msgid "here"
+msgstr "тут"
+
+# @ dwqa
+#: ../inc/filter.php:119
+#: ../inc/templates/default/archive-question-notfound.php:22
+msgid "Please"
+msgstr "Будь ласка"
+
+# @ dwqa
+#: ../inc/filter.php:121
+#: ../inc/templates/default/archive-question-notfound.php:24
+msgid "Login"
+msgstr "Увійдіть"
+
+# @ dwqa
+#: ../inc/filter.php:125
+#: ../inc/templates/default/archive-question-notfound.php:25
+msgid " or"
+msgstr "або"
+
+# @ dwqa
+#: ../inc/filter.php:127
+#: ../inc/templates/default/archive-question-notfound.php:26
+msgid " to submit question."
+msgstr ", щоб запитати"
+
+# @ dwqa
+#: ../inc/filter.php:433
+msgid "Search query is empty"
+msgstr "Поисковый запрос пустой"
+
+# @ dwqa
+#: ../inc/metaboxes.php:5
+msgid "Answers"
+msgstr "Відповідей"
+
+# @ dwqa
+#: ../inc/metaboxes.php:29
+msgid "Question Meta Data"
+msgstr "Мета-даннізапитання"
+
+# @ dwqa
+#: ../inc/metaboxes.php:44
+msgid "Status"
+msgstr "Статус"
+
+# @ dwqa
+#: ../inc/metaboxes.php:46 ../inc/status.php:278
+#: ../inc/templates/default/question-list.php:17
+msgid "Open"
+msgstr "Відкритий"
+
+# @ dwqa
+#: ../inc/metaboxes.php:47 ../inc/status.php:265
+#: ../inc/template-functions.php:693
+#: ../inc/templates/default/content-question.php:6
+msgid "Pending"
+msgstr "На перевірці"
+
+# @ dwqa
+#: ../inc/metaboxes.php:48 ../inc/status.php:262
+#: ../inc/template-functions.php:698
+#: ../inc/templates/default/question-list.php:23
+msgid "Resolved"
+msgstr "Вирішений"
+
+# @ dwqa
+#: ../inc/metaboxes.php:49 ../inc/status.php:268
+#: ../inc/template-functions.php:683
+msgid "Re-Open"
+msgstr "Перевідкритий"
+
+# @ dwqa
+#: ../inc/metaboxes.php:50 ../inc/status.php:271
+#: ../inc/template-functions.php:688
+#: ../inc/templates/default/question-list.php:26
+msgid "Closed"
+msgstr "Зайритий"
+
+# @ dwqa
+#: ../inc/metaboxes.php:56
+msgid "Sticky"
+msgstr "Прикріплені"
+
+# @ dwqa
+#: ../inc/metaboxes.php:60
+msgid "Pin question to top of archive page."
+msgstr "Прикріпити запитання на верху архіва"
+
+# @ dwqa
+#: ../inc/notification.php:27
+msgid "A new question was posted on {site_name}"
+msgstr "Нову запитання було опубликовано на {site_name}"
+
+# @ dwqa
+#: ../inc/notification.php:118
+msgid "A new answer for \"{question_title}\" was posted on {site_name}"
+msgstr "Нова відповідь на \"{question_title}\" була дана на {site_name}"
+
+# @ dwqa
+#: ../inc/notification.php:186
+msgid "You have a new answer for your followed question"
+msgstr "У вас є нова відповідь на питання, за якими ви слідкуєте"
+
+# @ dwqa
+#: ../inc/notification.php:282 ../inc/notification.php:328
+msgid "[{site_name}] You have a new comment for question {question_title}"
+msgstr "[{site_name}] У вас коментар на запитання {question_title}"
+
+# @ dwqa
+#: ../inc/notification.php:287 ../inc/notification.php:333
+msgid "[{site_name}] You have a new comment for answer"
+msgstr "[{site_name}] У вас є коментар до відповіді"
+
+# @ dwqa
+#: ../inc/pointer-helper.php:57
+msgid "How to use DW Question Answer"
+msgstr "Як користуватись DW Question Answer"
+
+# @ dwqa
+#: ../inc/pointer-helper.php:58
+msgid "Documents, Support From DesignWall (help)"
+msgstr "Документи, підтримка від DesignWall (допомога)"
+
+# @ dwqa
+#: ../inc/pointer-helper.php:67
+msgid "Config your support channel"
+msgstr "Налаштувати канал підтримки"
+
+# @ dwqa
+#: ../inc/pointer-helper.php:68
+msgid "Change comment settings, and create the Submit question page."
+msgstr "Змінити налаштування коментарів і створити сторінку  \"Запитати\""
+
+# @ dwqa
+#: ../inc/settings.php:9
+msgid "Login required. No anonymous post allowed"
+msgstr "Потрібно увійти. Анонімні запитання не дозволено."
+
+# @ dwqa
+#: ../inc/settings.php:21
+msgid "Select Archive Question Page"
+msgstr "Оберіть сторінку архіва запитань"
+
+# @ dwqa
+#: ../inc/settings.php:25
+msgid "A page where displays all questions"
+msgstr "Сторінка, де відображаються всі запитання"
+
+# @ dwqa
+#: ../inc/settings.php:32
+msgid "hours"
+msgstr "годин"
+
+# @ dwqa
+#: ../inc/settings.php:32
+msgid ""
+"A period of time in which new questions are highlighted and marked as New"
+msgstr "Період часу,під час якого запитання відмечене як \"нове\""
+
+# @ dwqa
+#: ../inc/settings.php:37
+msgid "days"
+msgstr "днів"
+
+# @ dwqa
+#: ../inc/settings.php:37
+msgid ""
+"A Question will be marked as overdue if it passes this period of time, "
+"starting from the time the question was submitted"
+msgstr ""
+"Запитання буде відмічено як застаріле, якщо пройде цей період з момента "
+"публікації питання"
+
+# @ dwqa
+#: ../inc/settings.php:48
+msgid "Select Submit Question Page"
+msgstr "Обрати сторінку \"Опублікувати запитання\""
+
+# @ dwqa
+#: ../inc/settings.php:53
+msgid "A page where users can submit questions."
+msgstr "Сторінка, на якій користувачі зможуть залишити запитання."
+
+#: ../inc/settings.php:66
+msgid "Select 404 DWQA Page"
+msgstr "Обрати сторінку 404 для DWQA"
+
+#: ../inc/settings.php:71
+msgid ""
+"This page will be redirected when users without authority click on a private "
+"question. You can customize the message of this page in.If not, a default "
+"404 page will be used."
+msgstr ""
+"На эту страницу будут направляться пользователи, если они попытаются "
+"кликнуть на приватный питання. Если не выбрано, то будет использована "
+"страница 404 из темы. "
+
+# @ dwqa
+#: ../inc/settings.php:87
+msgid "Upload"
+msgstr "Завантажити"
+
+# @ dwqa
+#: ../inc/settings.php:87
+msgid "Upload or choose a logo to be displayed at the top of the email"
+msgstr ""
+"Загрузите или выберите логотип, который будет отображен вверху вашего e-mail"
+
+# @ dwqa
+#: ../inc/settings.php:126
+msgid "Enable notification for new question"
+msgstr "Включить уведомления о новых питанняах"
+
+# @ dwqa
+#: ../inc/settings.php:131 ../inc/settings.php:165 ../inc/settings.php:200
+#: ../inc/settings.php:235 ../inc/settings.php:270 ../inc/settings.php:305
+#: ../inc/settings.php:340
+msgid "Email subject"
+msgstr "Тема письма"
+
+# @ dwqa
+#: ../inc/settings.php:136 ../inc/settings.php:170 ../inc/settings.php:205
+#: ../inc/settings.php:240 ../inc/settings.php:275 ../inc/settings.php:310
+#: ../inc/settings.php:345
+msgid "Email Content"
+msgstr "Содержание письма"
+
+# @ dwqa
+#: ../inc/settings.php:160
+msgid "Enable notification for new answer"
+msgstr "Включить уведомления о новых ответах"
+
+# @ dwqa
+#: ../inc/settings.php:195
+#, fuzzy
+msgid "Enable notification for new answer (to Followers )"
+msgstr "Включить уведомления о новых ответах (следящим)"
+
+# @ dwqa
+#: ../inc/settings.php:230 ../inc/settings.php:265
+msgid "Enable notification for new comment of question"
+msgstr "Включить уведомления на новые комментарии питанняа"
+
+# @ dwqa
+#: ../inc/settings.php:300 ../inc/settings.php:335
+msgid "Enable notification for new comment of answer"
+msgstr "Включить уведомления на новые комментарии ответа"
+
+# @ dwqa
+#: ../inc/settings.php:397
+msgid "Read"
+msgstr "Читати"
+
+# @ dwqa
+#: ../inc/settings.php:398
+msgid "Post"
+msgstr "Опублікувати"
+
+# @ dwqa
+#: ../inc/settings.php:426 ../inc/settings.php:462 ../inc/settings.php:497
+msgid "Reset Default"
+msgstr "Відновити замовчування"
+
+# @ dwqa
+#: ../inc/settings.php:464
+msgid "Comment"
+msgstr "Коментар"
+
+# @ dwqa
+#: ../inc/settings.php:506
+msgid "Enable/Disable captcha on submit question page"
+msgstr "Увімкнути/вимкнути капчу на сторінці \"Запитати\""
+
+# @ dwqa
+#: ../inc/settings.php:512
+msgid "Enable/Disable captcha on single question page"
+msgstr "Включити/виключити капчу на сторінках запитань"
+
+# @ dwqa
+#: ../inc/settings.php:530
+msgid "questions"
+msgstr "запитання"
+
+# @ dwqa
+#: ../inc/settings.php:536
+msgid "Allow members to post private question"
+msgstr "Позволить участникам публиковать приватные запитаня"
+
+#: ../inc/settings.php:542
+msgid "Question must be manually approved"
+msgstr "Питання должен быть одобрен вручную"
+
+# @ dwqa
+#: ../inc/settings.php:553
+#, fuzzy
+msgid "Select template for Single Quesiton page"
+msgstr "Капча на страницах питанняов"
+
+#: ../inc/settings.php:559
+msgid ""
+"By default, your single.php template file will be used if you do not choose "
+"any template"
+msgstr ""
+
+# @ dwqa
+#: ../inc/settings.php:641
+msgid "Plugin Settings"
+msgstr "Настройки плагина"
+
+# @ dwqa
+#: ../inc/settings.php:641
+msgid "Settings"
+msgstr "Настройки"
+
+# @ dwqa
+#: ../inc/settings.php:667
+msgid "Question List Page"
+msgstr "Страница для списка питанняов"
+
+# @ dwqa
+#: ../inc/settings.php:675
+msgid "Archive page show at most"
+msgstr "На странице показывать максимум"
+
+# @ dwqa
+#: ../inc/settings.php:683
+msgid "Ask Question Page"
+msgstr "Сторінка  \"Запитати\""
+
+# @ dwqa
+#: ../inc/settings.php:690
+msgid "Private Question"
+msgstr "Приватный питання"
+
+# @ default
+#: ../inc/settings.php:697
+msgid "Review Question"
+msgstr "Предварительно одобрять все питанняы"
+
+#: ../inc/settings.php:705
+msgid "DWQA 404 Page"
+msgstr "DWQA страница 404"
+
+# @ dwqa
+#: ../inc/settings.php:713
+#, fuzzy
+msgid "Single Question Template"
+msgstr "Питання"
+
+# @ dwqa
+#: ../inc/settings.php:722
+msgid "Time settings"
+msgstr "Настройки времени"
+
+# @ dwqa
+#: ../inc/settings.php:729
+msgid "New Question Time Frame"
+msgstr "Новыми питанняы считаются"
+
+# @ dwqa
+#: ../inc/settings.php:737
+msgid "Question Overdue - Time Frame"
+msgstr "Просроченными питанняами считаются после"
+
+# @ dwqa
+#: ../inc/settings.php:747
+msgid "Captcha settings"
+msgstr "Настройки капчи"
+
+# @ dwqa
+#: ../inc/settings.php:754
+msgid "Captcha on Submit Question Page"
+msgstr "Капча на сторінці \"Запитати\""
+
+# @ dwqa
+#: ../inc/settings.php:762
+msgid "Captcha on Single Question Page"
+msgstr "Капча на страницах питанняов"
+
+# @ dwqa
+#: ../inc/settings.php:770
+msgid "Google Captcha Public Key"
+msgstr "Google Captcha Public Key"
+
+# @ dwqa
+#: ../inc/settings.php:778
+msgid "Google Captcha Private Key"
+msgstr "Google Captcha Private Key"
+
+# @ dwqa
+#: ../inc/settings.php:788
+msgid "Permalink Settings"
+msgstr "Настройки постоянных ссылок"
+
+# @ dwqa
+#: ../inc/settings.php:795
+msgid "Single Question"
+msgstr "Питання"
+
+# @ dwqa
+#: ../inc/settings.php:803
+msgid "Single Category"
+msgstr "Категория"
+
+# @ dwqa
+#: ../inc/settings.php:811
+msgid "Single Tag"
+msgstr "Метка"
+
+# @ dwqa
+#: ../inc/settings.php:860
+msgid "From Email"
+msgstr "Адрес отправителя"
+
+# @ dwqa
+#: ../inc/settings.php:924 ../inc/settings.php:931
+msgid "Group Permission"
+msgstr "Права группы"
+
+# @ dwqa
+#: ../inc/settings.php:944
+msgid "DWQA Settings"
+msgstr "Настройки"
+
+# @ dwqa
+#: ../inc/settings.php:948
+msgid "General"
+msgstr "Общие"
+
+# @ dwqa
+#: ../inc/settings.php:949
+msgid "Notification"
+msgstr "Уведомления"
+
+# @ dwqa
+#: ../inc/settings.php:950
+msgid "Permission"
+msgstr "Права"
+
+# @ dwqa
+#: ../inc/settings.php:957
+msgid "Email setup"
+msgstr "Настройка уведомлений"
+
+# @ dwqa
+#: ../inc/settings.php:961
+msgid "Email Logo"
+msgstr "Логотип"
+
+# @ dwqa
+#: ../inc/settings.php:973
+msgid "New Comment to Question"
+msgstr "Новый комментарий к питанняу"
+
+# @ dwqa
+#: ../inc/settings.php:974
+msgid "New Comment to Answer"
+msgstr "Новый комментарий к ответу"
+
+# @ dwqa
+#: ../inc/settings.php:975
+#, fuzzy
+msgid "New Answer (to Followers )"
+msgstr "Новый ответ (следящим)"
+
+# @ dwqa
+#: ../inc/settings.php:976
+#, fuzzy
+msgid "New Comment to Question (to Followers )"
+msgstr "Новый комментарий на питання (следящим)"
+
+# @ dwqa
+#: ../inc/settings.php:977
+#, fuzzy
+msgid "New Comment to Answer (to Followers )"
+msgstr "Новый комментарий на ответ (следящим)"
+
+# @ dwqa
+#: ../inc/settings.php:984
+msgid "New Question Notification"
+msgstr "Новое уведомление о питанняе"
+
+# @ dwqa
+#: ../inc/settings.php:991 ../inc/settings.php:1000 ../inc/settings.php:1009
+#: ../inc/settings.php:1018 ../inc/settings.php:1028 ../inc/settings.php:1036
+#: ../inc/settings.php:1046
+msgid "Save all changes"
+msgstr "Сохранить все изменения"
+
+# @ dwqa
+#: ../inc/settings.php:996
+msgid "New Answer Notification"
+msgstr "Новое уведомление об ответе"
+
+# @ dwqa
+#: ../inc/settings.php:1005
+#, fuzzy
+msgid "New Answer Notification (to Followers )"
+msgstr "Новое уведомление об ответе (следящим)"
+
+# @ dwqa
+#: ../inc/settings.php:1014
+msgid "New Comment to Question Notification"
+msgstr "Уведомление о новом комментарии к питанняу"
+
+# @ dwqa
+#: ../inc/settings.php:1024
+msgid "New Comment to Answer Notification"
+msgstr "Уведомление о новом комментарии к ответу"
+
+# @ dwqa
+#: ../inc/settings.php:1032
+#, fuzzy
+msgid "New Comment to Question Notification (to Followers )"
+msgstr "Уведомление о новом комментарии к питанняу (следящим)"
+
+# @ dwqa
+#: ../inc/settings.php:1042
+#, fuzzy
+msgid "New Comment to Answer Notification (to Followers )"
+msgstr "Уведомление о новом комментарии к ответу (следящим)"
+
+# @ dwqa
+#: ../inc/settings.php:1071
+msgid "Send to"
+msgstr "Кому"
+
+# @ dwqa
+#: ../inc/settings.php:1076
+msgid "Cc"
+msgstr "Копія"
+
+# @ dwqa
+#: ../inc/settings.php:1081
+msgid "Bcc"
+msgstr "Прихована копія"
+
+# @ dwqa
+#: ../inc/settings.php:1086
+msgid "This address will be used as the sender of the outgoing emails."
+msgstr "Цю адресу буде показано в якості відправника"
+
+# @ dwqa
+#: ../inc/settings.php:1092
+msgid "Send A Copy Of Every Email To Admin"
+msgstr "Відпрявляти копію кожного листа адміну"
+
+# @ dwqa
+#: ../inc/shortcodes.php:101 ../inc/widgets/popular-question.php:18
+msgid "Popular Questions"
+msgstr "Популярні запитання"
+
+# @ dwqa
+#: ../inc/shortcodes.php:138
+msgid "Latest Answers"
+msgstr "Останні відповіді"
+
+# @ dwqa
+#: ../inc/shortcodes.php:164
+msgid "Answer at"
+msgstr "Відповідь на"
+
+# @ dwqa
+#: ../inc/shortcodes.php:164 ../inc/templates/default/single-question.php:38
+msgid "Link to"
+msgstr "Посилання"
+
+# @ dwqa
+#: ../inc/shortcodes.php:192
+msgid "% person who is following this question"
+msgid_plural "% people who are following this question"
+msgstr[0] "% людей слідкує за запитанням"
+msgstr[1] "% людей слідкує за запитанням"
+msgstr[2] "% людей слідкує за запитанням"
+
+# @ dwqa
+#: ../inc/status.php:274
+msgid "New"
+msgstr "Нове"
+
+# @ dwqa
+#: ../inc/status.php:292
+msgid "Missing post ID"
+msgstr "Втрачений ID запису"
+
+# @ dwqa
+#: ../inc/status.php:308
+msgid "Post does not exist"
+msgstr "Запису не існує"
+
+# @ dwqa
+#: ../inc/status.php:313
+msgid "Invalid post status"
+msgstr "Невірний статус"
+
+# @ dwqa
+#: ../inc/template-functions.php:90
+msgid "You need an account to submit question and get answers. Create one:"
+msgstr "Вам необхідно зареєструватись, щоб запитати. Зареєструватись:"
+
+# @ dwqa
+#: ../inc/template-functions.php:92 ../inc/template-functions.php:129
+msgid "Type your email"
+msgstr "Ваш E-mail"
+
+# @ dwqa
+#: ../inc/template-functions.php:97
+msgid "Already a member?"
+msgstr "Вже зареєстровані?"
+
+# @ dwqa
+#: ../inc/template-functions.php:97
+msgid "Log In"
+msgstr "Увійти"
+
+# @ dwqa
+#: ../inc/template-functions.php:101
+msgid "Login to submit your question"
+msgstr "Увійдіть, щоб додати запитання"
+
+# @ dwqa
+#: ../inc/template-functions.php:103
+msgid "Type your username"
+msgstr "Логін"
+
+# @ dwqa
+#: ../inc/template-functions.php:106
+msgid "Type your password"
+msgstr "Пароль"
+
+# @ dwqa
+#: ../inc/template-functions.php:108
+msgid "Not yet a member?"
+msgstr "Ще не учасник?"
+
+# @ dwqa
+#: ../inc/template-functions.php:108 ../inc/templates/default/answers.php:109
+msgid "Register"
+msgstr "Зареєструватись"
+
+#: ../inc/template-functions.php:112
+msgid ""
+"Enter your email to receive notification regarding your question. Your email "
+"is safe with us and will not be published."
+msgstr ""
+"Введіть ваш email, щоб отримувати сповіщення про ваше запитання. Email ніде "
+"не публікується."
+
+# @ dwqa
+#: ../inc/template-functions.php:112
+msgid "Your email *"
+msgstr "Ваш E-mail *"
+
+#: ../inc/template-functions.php:113
+msgid "Email address ..."
+msgstr "Email адреса ..."
+
+#: ../inc/template-functions.php:114
+#, php-format
+msgid "or <strong><a href=\"%s\">login</a></strong> to submit question"
+msgstr "або <strong><a href=\"%s\">увійдіть</a></strong>, щоб додати запитання"
+
+# @ default
+#: ../inc/template-functions.php:141
+#, php-format
+msgid "Private: %s"
+msgstr "Приватних: %s"
+
+# @ dwqa
+#: ../inc/template-functions.php:176
+msgid "Answer this Question"
+msgstr "Відповісти на запитання:"
+
+# @ dwqa
+#: ../inc/template-functions.php:214
+msgid "Add answer"
+msgstr "Розмістити відповідь"
+
+# @ dwqa
+#: ../inc/template-functions.php:273
+msgid "You do not have permission to submit a question"
+msgstr "Ви не можете додавати запитання"
+
+# @ default
+#: ../inc/template-functions.php:356
+msgid "Email"
+msgstr "Email"
+
+# @ default
+#: ../inc/template-functions.php:360
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Обовязкові поля відмічені %s"
+
+# @ default
+#: ../inc/template-functions.php:372
+msgctxt "noun"
+msgid "Comment"
+msgstr "Коментар"
+
+# @ dwqa
+#: ../inc/template-functions.php:373
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Ви повинні <a href=\"%s\">увійти</a>, щоб залишити коментар."
+
+# @ default
+#: ../inc/template-functions.php:374
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Ви ввійшли як <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Вийти"
+"\">Вийти?</a>"
+
+# @ dwqa
+#: ../inc/template-functions.php:375
+msgid "Your email address will not be published."
+msgstr "Ваш E-mail не буде опублікований"
+
+# @ dwqa
+#: ../inc/template-functions.php:376
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Ви можете використовувати ці <abbr title=\"HTML\">HTML</abbr> теги и "
+"атрибути: %s"
+
+# @ dwqa
+#: ../inc/template-functions.php:379
+msgid "Leave a Reply"
+msgstr "Написати відповідь"
+
+# @ dwqa
+#: ../inc/template-functions.php:380
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Написати відповідь %s"
+
+# @ dwqa
+#: ../inc/template-functions.php:381
+msgid "Cancel reply"
+msgstr "Зарити відповідь"
+
+# @ dwqa
+#: ../inc/template-functions.php:382
+msgid "Post Comment"
+msgstr "Коментар до запису"
+
+# @ dwqa
+#: ../inc/template-functions.php:561
+msgid "Sticky Question"
+msgstr "Прикріплене запитання"
+
+# @ dwqa
+#: ../inc/template-functions.php:575
+msgid "Ask a question"
+msgstr "Запитати"
+
+# @ dwqa
+#: ../inc/template-functions.php:577
+msgid "Login to ask a question"
+msgstr "Увійдіть, щоб додати запитання"
+
+# @ dwqa
+#: ../inc/template-functions.php:719
+#: ../inc/templates/default/content-answer.php:19
+msgid "Vote Up"
+msgstr "+1"
+
+# @ dwqa
+#: ../inc/template-functions.php:721
+#: ../inc/templates/default/content-answer.php:21
+msgid "Vote Down"
+msgstr "-1"
+
+# @ dwqa
+#: ../inc/template-functions.php:732
+msgid "All questions from"
+msgstr "Всі питання в категорії:"
+
+#: ../inc/template-functions.php:740
+msgid "follow"
+msgstr "слідкувати"
+
+#: ../inc/template-functions.php:741
+msgid "following"
+msgstr "слідкую"
+
+#: ../inc/template-functions.php:742
+msgid "unfollow"
+msgstr "не слідкувати"
+
+# @ dwqa
+#: ../inc/template-functions.php:747
+msgid "Unpin this Question from the top"
+msgstr "Відкріпити запитання"
+
+# @ dwqa
+#: ../inc/template-functions.php:747
+msgid "Pin this Question to top"
+msgstr "Прикріпити питання зверху"
+
+# @ dwqa
+#: ../inc/templates/default/answers.php:42
+#: ../inc/templates/default/content-question.php:38
+#: ../inc/templates/default/content-question.php:41
+msgid "answer"
+msgid_plural "answers"
+msgstr[0] "відп."
+msgstr[1] "відп."
+msgstr[2] "відп."
+
+# @ dwqa
+#: ../inc/templates/default/answers.php:90
+msgid "You do not have permission to view answers"
+msgstr "Ви не можете переглянути запитання"
+
+# @ dwqa
+#: ../inc/templates/default/answers.php:97
+msgid "This question is now closed"
+msgstr "Питання закрито"
+
+# @ dwqa
+#: ../inc/templates/default/answers.php:105
+msgid "You do not have permission to submit answer."
+msgstr "Вы не можете добавить ответ"
+
+# @ dwqa
+#: ../inc/templates/default/answers.php:109
+msgid "Please login or"
+msgstr "Будь ласка, увійдіть"
+
+# @ dwqa
+#: ../inc/templates/default/answers.php:109
+msgid "to Submit Answer"
+msgstr ", щоб додати запитання"
+
+# @ dwqa
+#: ../inc/templates/default/archive-question-notfound.php:14
+msgid "Sorry, but nothing matched your filter."
+msgstr "Вибачте, нічого не знайдено"
+
+# @ dwqa
+#: ../inc/templates/default/comments.php:16
+msgid "View previous comments"
+msgstr "Переглянути попередні коментарі"
+
+# @ dwqa
+#: ../inc/templates/default/comments.php:17
+msgid "of"
+msgstr "з"
+
+# @ dwqa
+#: ../inc/templates/default/comments.php:36
+msgid "Write a reply..."
+msgstr "Написати відповідь"
+
+# @ dwqa
+#: ../inc/templates/default/content-answer.php:79
+#: ../inc/templates/default/content-comment.php:12
+msgid "Staff"
+msgstr "Адмін."
+
+# @ dwqa
+#: ../inc/templates/default/content-answer.php:88
+msgid "Link to answer"
+msgstr "Посилання на відповідь"
+
+# @ dwqa
+#: ../inc/templates/default/content-answer.php:92
+msgid "Draft"
+msgstr "Чорновик"
+
+# @ dwqa
+#: ../inc/templates/default/content-answer.php:102
+msgid "This answer was flagged as spam."
+msgstr "Ця відповідь помічена як спам"
+
+# @ dwqa
+#: ../inc/templates/default/content-answer.php:117
+msgid "This is the best answer"
+msgstr "Це краща відповідь!"
+
+# @ dwqa
+#: ../inc/templates/default/content-answer.php:121
+msgid "The answer link"
+msgstr "Посилання на питання"
+
+# @ dwqa
+#: ../inc/templates/default/content-comment.php:10
+msgid "Post by"
+msgstr "Опубліковано:"
+
+# @ dwqa
+#: ../inc/templates/default/content-comment.php:24
+msgid "Link to comment"
+msgstr "Посилання на коментар"
+
+# @ dwqa
+#: ../inc/templates/default/content-question.php:10
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постійте посилання %s"
+
+# @ default
+#: ../inc/templates/default/content-question.php:14
+msgid "Category"
+msgstr "Категорія"
+
+# @ dwqa
+#: ../inc/templates/default/content-question.php:25
+#: ../inc/templates/default/content-question.php:28
+msgid "view"
+msgid_plural "views"
+msgstr[0] "пер."
+msgstr[1] "пер."
+msgstr[2] "пер."
+
+# @ dwqa
+#: ../inc/templates/default/content-question.php:51
+#: ../inc/templates/default/content-question.php:54
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "голос"
+msgstr[1] "голоса"
+msgstr[2] "голосів"
+
+# @ default
+#: ../inc/templates/default/question-list.php:11
+msgid "Status:"
+msgstr "Статус:"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:13
+#: ../inc/templates/default/question-list.php:66
+msgid "All"
+msgstr "Все"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:17
+msgid "Need Answer"
+msgstr "Потрібна відповідь"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:20
+msgid "Answered"
+msgstr "З відповіддю"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:29
+msgid "Overdue"
+msgstr "Просрочено"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:30
+msgid "Queue"
+msgstr "В черзі"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:54
+msgid "Select a category"
+msgstr "Обрати категорію"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:67
+msgid "Empty"
+msgstr "Пусто"
+
+# @ dwqa
+#: ../inc/templates/default/question-list.php:114
+msgid "Vote"
+msgstr "Голосів"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:22
+msgid "Question Category"
+msgstr "Категорія:"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:28
+msgid "Select question category"
+msgstr "Оберіть потрібну категорію"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:37
+msgid "tag 1, tag 2,..."
+msgstr "ключові слова"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:42
+msgid "Your question"
+msgstr "Заголовок, запитання коротко"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:43
+msgid "How to..."
+msgstr "Як зробити..."
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:50
+msgid "Question details"
+msgstr "Повне запитання, деталі"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:63
+msgid "Post this Question as Private."
+msgstr "Залишити приватне запитання (не рекомендується)"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:63
+msgid "Only you as Author and Admin can see the question"
+msgstr "Лише адміністратори можуть бачити це запитання"
+
+# @ dwqa
+#: ../inc/templates/default/question-submit-form.php:83
+msgid "Ask Question"
+msgstr "Додати питання"
+
+# @ dwqa
+#: ../inc/templates/default/search-question.php:4
+msgid "Search"
+msgstr "Пошук"
+
+#: ../inc/templates/default/single-question.php:17
+msgid "Your question has been submitted and is currently awaiting approval"
+msgstr "Заше запитання чекає на перевірку"
+
+#: ../inc/templates/default/single-question.php:17
+msgid "This question is currently awaiting approval"
+msgstr "Це питання очікує підтвердження"
+
+# @ dwqa
+#: ../inc/templates/default/single-question.php:30
+msgid "Posts by"
+msgstr "Записи автора: "
+
+# @ dwqa
+#: ../inc/templates/default/single-question.php:38
+msgid "asked"
+msgstr "запитав"
+
+# @ dwqa
+#: ../inc/widgets/latest-question.php:11
+#: ../inc/widgets/list-closed-question.php:11
+msgid "Show a list of questions that was ordered by views."
+msgstr "Показати список питань, відсортованих за кількістю переглядів."
+
+# @ dwqa
+#: ../inc/widgets/latest-question.php:12
+msgid "DWQA Latest Questions"
+msgstr "DWQA Останні запитання"
+
+# @ default
+# @ dwqa
+#: ../inc/widgets/latest-question.php:18
+msgid "Latest Questions"
+msgstr "Останні запитання"
+
+# @ default
+#: ../inc/widgets/latest-question.php:64
+#: ../inc/widgets/list-closed-question.php:71
+#: ../inc/widgets/popular-question.php:63
+#: ../inc/widgets/related-question.php:48
+msgid "Widget title"
+msgstr "Заголовок віджета"
+
+# @ default
+#: ../inc/widgets/latest-question.php:67
+#: ../inc/widgets/list-closed-question.php:74
+#: ../inc/widgets/popular-question.php:66
+#: ../inc/widgets/related-question.php:51
+msgid "Number of posts"
+msgstr "Кількість записів"
+
+# @ dwqa
+#: ../inc/widgets/list-closed-question.php:12
+msgid "DWQA Closed Questions"
+msgstr "DWQA Закриті запитання"
+
+# @ default
+#: ../inc/widgets/list-closed-question.php:18
+msgid "Closed Questions"
+msgstr "Закриті запитання"
+
+#: ../inc/widgets/popular-question.php:11
+msgid "Show a list of questions that ordered by views."
+msgstr "Показати список запитань, відсортованих за кількістю переглядів."
+
+# @ dwqa
+#: ../inc/widgets/popular-question.php:12
+msgid "DWQA Popular Questions"
+msgstr "Популярні запитання"
+
+# @ dwqa
+#: ../inc/widgets/related-question.php:11
+msgid ""
+"Show a list of questions that related to a question. Just show in single "
+"question page"
+msgstr "Показати список схожих запитань. Просто показати на сторінці запитань."
+
+# @ dwqa
+#: ../inc/widgets/related-question.php:12
+msgid "DWQA Related Questions"
+msgstr "Схожі запитання"
